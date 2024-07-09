@@ -3,20 +3,24 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-user-tie
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  icon: fa-solid fa-microscope
+  description: Research Fellow
 
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+research-assistant:
+  icon: fa-solid fa-vial-virus
+  description: Research Assistant
+
+staff:
+  icon: fa-solid fa-building
+  description: Support Staff
 
 programmer:
   icon: fa-solid fa-code
@@ -78,6 +82,12 @@ orcid:
   tooltip: ORCID
   link: https://orcid.org/$VALUE
 
+researchgate:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/
+
 google-scholar:
   icon: fa-brands fa-google
   text: Google Scholar
@@ -108,11 +118,11 @@ instagram:
   tooltip: Instagram
   link: https://instagram.com/$VALUE
 
-youtube:
-  icon: fa-brands fa-youtube
-  text: YouTube
-  tooltip: YouTube
-  link: https://youtube.com/$VALUE
+# youtube:
+#   icon: fa-brands fa-youtube
+#   text: YouTube
+#   tooltip: YouTube
+#   link: https://youtube.com/$VALUE
 
 linkedin:
   icon: fa-brands fa-linkedin

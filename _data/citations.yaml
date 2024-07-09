@@ -1,247 +1,1252 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: pubmed:38677183
+  title: "Multi-tissue profiling of oxylipins reveal a conserved up-regulation of\
+    \ epoxide:diol ratio that associates with white\_adipose tissue inflammation and\
+    \ liver steatosis in obesity."
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  - Charlotte Hateley
+  - Antoni Olona
+  - Laura Halliday
+  - Matthew L Edin
+  - Jeong-Hun Ko
+  - Roberta Forlano
+  - Ximena Terra
+  - Fred B Lih
+  - "Ra\xFAl Beltr\xE1n-Deb\xF3n"
+  - Penelopi Manousou
+  - Sanjay Purkayastha
+  - Krishna Moorthy
+  - Mark R Thursz
+  - Guodong Zhang
+  - Robert D Goldin
+  - Darryl C Zeldin
+  - Enrico Petretto
+  - Jacques Behmoaras
+  publisher: EBioMedicine
+  date: '2024-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38677183
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38612639
+  title: Comparative Analysis of Single-Cell RNA Sequencing Methods with and without
+    Sample Multiplexing.
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+  - Yi Xie
+  - Huimei Chen
+  - Vasuki Ranjani Chellamuthu
+  - Ahmad Bin Mohamed Lajam
+  - Salvatore Albani
+  - Andrea Hsiu Ling Low
+  - Enrico Petretto
+  - Jacques Behmoaras
+  publisher: International journal of molecular sciences
+  date: '2024-03-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38612639
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38502123
+  title: WWP2 Regulates Renal Fibrosis and the Metabolic Reprogramming of Profibrotic
+    Myofibroblasts.
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+  - Huimei Chen
+  - Ran You
+  - Jing Guo
+  - Wei Zhou
+  - Gabriel Chew
+  - Nithya Devapragash
+  - Jui Zhi Loh
+  - Loreto Gesualdo
+  - Yanwei Li
+  - Yuteng Jiang
+  - Elisabeth Li Sa Tan
+  - Shuang Chen
+  - Paola Pontrelli
+  - Francesco Pesce
+  - Jacques Behmoaras
+  - Aihua Zhang
+  - Enrico Petretto
+  publisher: 'Journal of the American Society of Nephrology : JASN'
+  date: '2024-03-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38502123
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37706477
+  title: Systems level identification of a matrisome-associated macrophage polarisation
+    state in multi-organ fibrosis.
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - John F Ouyang
+  - Kunal Mishra
+  - Yi Xie
+  - Harry Park
+  - Kevin Y Huang
+  - Enrico Petretto
+  - Jacques Behmoaras
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  date: '2023-09-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37706477
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37016941
+  title: Multinucleation resets human macrophages for specialized functions at the
+    expense of their identity.
+  authors:
+  - Kourosh Ahmadzadeh
+  - Marie Pereira
+  - Margot Vanoppen
+  - Eline Bernaerts
+  - Jeong-Hun Ko
+  - Tania Mitera
+  - Christy Maksoudian
+  - Bella B Manshian
+  - Stefaan Soenen
+  - Carlos D Rose
+  - Patrick Matthys
+  - Carine Wouters
+  - Jacques Behmoaras
+  publisher: EMBO reports
+  date: '2023-04-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37016941
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36597777
+  title: Multinucleation resets human macrophages for specialized functions at the
+    expense of their identity.
+  authors:
+  - Kourosh Ahmadzadeh
+  - Marie Pereira
+  - Margot Vanoppen
+  - Eline Bernaerts
+  - Jeong-Hun Ko
+  - Tania Mitera
+  - Christy Maksoudian
+  - Bella B Manshian
+  - Stefaan Soenen
+  - Carlos D Rose
+  - Patrick Matthys
+  - Carine Wouters
+  - Jacques Behmoaras
+  publisher: EMBO reports
+  date: '2023-01-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36597777
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36450710
+  title: The E3 ubiquitin ligase WWP2 regulates pro-fibrogenic monocyte infiltration
+    and activity in heart fibrosis.
+  authors:
+  - Huimei Chen
+  - Gabriel Chew
+  - Nithya Devapragash
+  - Jui Zhi Loh
+  - Kevin Y Huang
+  - Jing Guo
+  - Shiyang Liu
+  - Elisabeth Li Sa Tan
+  - Shuang Chen
+  - Nicole Gui Zhen Tee
+  - Masum M Mia
+  - Manvendra K Singh
+  - Aihua Zhang
+  - Jacques Behmoaras
+  - Enrico Petretto
+  publisher: Nature communications
+  date: '2022-11-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36450710
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35844525
+  title: Immunolipidomics Reveals a Globoside Network During the Resolution of Pro-Inflammatory
+    Response in Human Macrophages.
+  authors:
+  - Sneha Muralidharan
+  - Federico Torta
+  - Michelle K Lin
+  - Antoni Olona
+  - Marta Bagnati
+  - Aida Moreno-Moral
+  - Jeong-Hun Ko
+  - Shanshan Ji
+  - Bo Burla
+  - Markus R Wenk
+  - Hosana G Rodrigues
+  - Enrico Petretto
+  - Jacques Behmoaras
+  publisher: Frontiers in immunology
+  date: '2022-06-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35844525
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35239186
+  title: Glomerulonephritis and autoimmune vasculitis are independent of P2RX7 but
+    may depend on alternative inflammasome pathways.
+  authors:
+  - Maria Prendecki
+  - Stephen P McAdoo
+  - Tabitha Turner-Stokes
+  - Ana Garcia-Diaz
+  - Isabel Orriss
+  - Kevin J Woollard
+  - Jacques Behmoaras
+  - H Terence Cook
+  - Robert Unwin
+  - Charles D Pusey
+  - Timothy J Aitman
+  - Frederick Wk Tam
+  publisher: The Journal of pathology
+  date: '2022-05-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35239186
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34794433
+  title: 'Adipoclast: a multinucleated fat-eating macrophage.'
+  authors:
+  - Antoni Olona
+  - Subhankar Mukhopadhyay
+  - Charlotte Hateley
+  - Fernando O Martinez
+  - Siamon Gordon
+  - Jacques Behmoaras
+  publisher: BMC biology
+  date: '2021-11-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34794433
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34363204
+  title: Sphingolipid metabolism during Toll-like receptor 4 (TLR4)-mediated macrophage
+    activation.
+  authors:
+  - Antoni Olona
+  - Charlotte Hateley
+  - Sneha Muralidharan
+  - Markus R Wenk
+  - Federico Torta
+  - Jacques Behmoaras
+  publisher: British journal of pharmacology
+  date: '2021-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34363204
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33790300
+  title: Type I interferons affect the metabolic fitness of CD8
+  authors:
+  - Norzawani Buang
+  - Lunnathaya Tapeng
+  - Victor Gray
+  - Alessandro Sardini
+  - Chad Whilding
+  - Liz Lightstone
+  - Thomas D Cairns
+  - Matthew C Pickering
+  - Jacques Behmoaras
+  - Guang Sheng Ling
+  - Marina Botto
+  publisher: Nature communications
+  date: '2021-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33790300
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33704068
+  title: Longitudinal proteomic profiling of dialysis patients with COVID-19 reveals
+    markers of severity and predictors of death.
+  authors:
+  - Jack Gisby
+  - Candice L Clarke
+  - Nicholas Medjeral-Thomas
+  - Talat H Malik
+  - Artemis Papadaki
+  - Paige M Mortimer
+  - Norzawani B Buang
+  - Shanice Lewis
+  - Marie Pereira
+  - Frederic Toulza
+  - Ester Fagnano
+  - Marie-Anne Mawhin
+  - Emma E Dutton
+  - Lunnathaya Tapeng
+  - Arianne C Richard
+  - Paul Dw Kirk
+  - Jacques Behmoaras
+  - Eleanor Sandhu
+  - Stephen P McAdoo
+  - Maria F Prendecki
+  - Matthew C Pickering
+  - Marina Botto
+  - Michelle Willicombe
+  - David C Thomas
+  - James E Peters
+  publisher: eLife
+  date: '2021-03-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33704068
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33665823
+  title: Cardiac glycosides cause cytotoxicity in human macrophages and ameliorate
+    white adipose tissue homeostasis.
+  authors:
+  - Antoni Olona
+  - Charlotte Hateley
+  - Ana Guerrero
+  - Jeong-Hun Ko
+  - Michael R Johnson
+  - Paras K Anand
+  - David Thomas
+  - Jesus Gil
+  - Jacques Behmoaras
+  publisher: British journal of pharmacology
+  date: '2021-05-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33665823
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33355620
+  title: Similarities and interplay between senescent cells and macrophages.
+  authors:
+  - Jacques Behmoaras
+  - "Jes\xFAs Gil"
+  publisher: The Journal of cell biology
+  date: '2021-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33355620
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33354925
+  title: The versatile biochemistry of iron in macrophage effector functions.
+  authors:
+  - Jacques Behmoaras
+  publisher: The FEBS journal
+  date: '2021-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33354925
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33148611
+  title: BCAT1 affects mitochondrial metabolism independently of leucine transamination
+    in activated human macrophages.
+  authors:
+  - Jeong-Hun Ko
+  - Antoni Olona
+  - Adonia E Papathanassiu
+  - Norzawani Buang
+  - Kwon-Sik Park
+  - Ana S H Costa
+  - Claudio Mauro
+  - Christian Frezza
+  - Jacques Behmoaras
+  publisher: Journal of cell science
+  date: '2020-11-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33148611
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32553114
+  title: A trans-eQTL network regulates osteoclast multinucleation and bone mass.
+  authors:
+  - Marie Pereira
+  - Jeong-Hun Ko
+  - John Logan
+  - Hayley Protheroe
+  - Kee-Beom Kim
+  - Amelia Li Min Tan
+  - Peter I Croucher
+  - Kwon-Sik Park
+  - Maxime Rotival
+  - Enrico Petretto
+  - Jh Duncan Bassett
+  - Graham R Williams
+  - Jacques Behmoaras
+  publisher: eLife
+  date: '2020-06-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32553114
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31799499
+  title: Cardiac glycosides are broad-spectrum senolytics.
+  authors:
+  - Ana Guerrero
+  - "Nicol\xE1s Herranz"
+  - Bin Sun
+  - Verena Wagner
+  - Suchira Gallage
+  - Romain Guiho
+  - Katharina Wolter
+  - Joaquim Pombo
+  - Elaine E Irvine
+  - Andrew J Innes
+  - Jodie Birch
+  - Justyna Glegola
+  - Saba Manshaei
+  - Danijela Heide
+  - Gopuraja Dharmalingam
+  - Jule Harbig
+  - Antoni Olona
+  - Jacques Behmoaras
+  - Daniel Dauch
+  - Anthony G Uren
+  - Lars Zender
+  - Santiago Vernia
+  - "Juan Pedro Mart\xEDnez-Barbera"
+  - Mathias Heikenwalder
+  - Dominic J Withers
+  - "Jes\xFAs Gil"
+  publisher: Nature metabolism
+  date: '2019-10-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31799499
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31291584
+  title: "Acute Iron Deprivation Reprograms Human Macrophage Metabolism and Reduces\
+    \ Inflammation In\_Vivo."
+  authors:
+  - Marie Pereira
+  - Tai-Di Chen
+  - Norzawani Buang
+  - Antoni Olona
+  - Jeong-Hun Ko
+  - Maria Prendecki
+  - Ana S H Costa
+  - Efterpi Nikitopoulou
+  - Laura Tronci
+  - Charles D Pusey
+  - H Terence Cook
+  - Stephen P McAdoo
+  - Christian Frezza
+  - Jacques Behmoaras
+  publisher: Cell reports
+  date: '2019-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31291584
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30674726
+  title: Systems genetics identifies a macrophage cholesterol network associated with
+    physiological wound healing.
+  authors:
+  - Marta Bagnati
+  - Aida Moreno-Moral
+  - Jeong-Hun Ko
+  - "J\xE9r\xF4me Nicod"
+  - Nathan Harmston
+  - Martha Imprialou
+  - Laurence Game
+  - Jesus Gil
+  - Enrico Petretto
+  - Jacques Behmoaras
+  publisher: JCI insight
+  date: '2019-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30674726
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30177815
+  title: A systems-level framework for drug discovery identifies Csf1R as an anti-epileptic
+    drug target.
+  authors:
+  - Prashant K Srivastava
+  - Jonathan van Eyll
+  - Patrice Godard
+  - Manuela Mazzuferi
+  - Andree Delahaye-Duriez
+  - Juliette Van Steenwinckel
+  - Pierre Gressens
+  - Benedicte Danis
+  - Catherine Vandenplas
+  - Patrik Foerch
+  - Karine Leclercq
+  - Georges Mairet-Coello
+  - Alvaro Cardenas
+  - Frederic Vanclef
+  - Liisi Laaniste
+  - Isabelle Niespodziany
+  - James Keaney
+  - Julien Gasser
+  - Gaelle Gillet
+  - Kirill Shkura
+  - Seon-Ah Chong
+  - Jacques Behmoaras
+  - Irena Kadiu
+  - Enrico Petretto
+  - Rafal M Kaminski
+  - Michael R Johnson
+  publisher: Nature communications
+  date: '2018-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30177815
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29871956
+  title: Common signalling pathways in macrophage and osteoclast multinucleation.
+  authors:
+  - Marie Pereira
+  - Enrico Petretto
+  - Siamon Gordon
+  - J H Duncan Bassett
+  - Graham R Williams
+  - Jacques Behmoaras
+  publisher: Journal of cell science
+  date: '2018-06-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29871956
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29656108
+  title: Epoxygenase inactivation exacerbates diet and aging-associated metabolic
+    dysfunction resulting from impaired adipogenesis.
+  authors:
+  - Antoni Olona
+  - Ximena Terra
+  - Jeong-Hun Ko
+  - "Carme Grau-Bov\xE9"
+  - Montserrat Pinent
+  - Anna Ardevol
+  - Ana Garcia Diaz
+  - Aida Moreno-Moral
+  - Matthew Edin
+  - David Bishop-Bailey
+  - Darryl C Zeldin
+  - Timothy J Aitman
+  - Enrico Petretto
+  - Mayte Blay
+  - Jacques Behmoaras
+  publisher: Molecular metabolism
+  date: '2018-03-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29656108
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29523522
+  title: 'Response to: ''M-CSF and GM-CSF monocyte-derived macrophages in systemic
+    sclerosis: the two sides of the same coin?'' by Lescoat'
+  authors:
+  - Jacques Behmoaras
+  - Enrico Petretto
+  publisher: Annals of the rheumatic diseases
+  date: '2018-03-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29523522
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29348297
+  title: Changes in macrophage transcriptome associate with systemic sclerosis and
+    mediate
+  authors:
+  - Aida Moreno-Moral
+  - Marta Bagnati
+  - Surya Koturan
+  - Jeong-Hun Ko
+  - Carmen Fonseca
+  - Nathan Harmston
+  - Laurence Game
+  - Javier Martin
+  - Voon Ong
+  - David J Abraham
+  - Christopher P Denton
+  - Jacques Behmoaras
+  - Enrico Petretto
+  publisher: Annals of the rheumatic diseases
+  date: '2018-01-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29348297
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28699638
+  title: BCAT1 controls metabolic reprogramming in activated human macrophages and
+    is associated with inflammatory diseases.
+  authors:
+  - Adonia E Papathanassiu
+  - Jeong-Hun Ko
+  - Martha Imprialou
+  - Marta Bagnati
+  - Prashant K Srivastava
+  - Hong A Vu
+  - Danilo Cucchi
+  - Stephen P McAdoo
+  - Elitsa A Ananieva
+  - Claudio Mauro
+  - Jacques Behmoaras
+  publisher: Nature communications
+  date: '2017-07-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28699638
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28450461
+  title: Identification of Ceruloplasmin as a Gene that Affects Susceptibility to
+    Glomerulonephritis Through Macrophage Function.
+  authors:
+  - Tai-Di Chen
+  - Maxime Rotival
+  - Ling-Yin Chiu
+  - Marta Bagnati
+  - Jeong-Hun Ko
+  - Prashant K Srivastava
+  - Enrico Petretto
+  - Charles D Pusey
+  - Ping-Chin Lai
+  - Timothy J Aitman
+  - H Terence Cook
+  - Jacques Behmoaras
+  publisher: Genetics
+  date: '2017-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28450461
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28250018
+  title: Genome-wide analysis of differential RNA editing in epilepsy.
+  authors:
+  - Prashant Kumar Srivastava
+  - Marta Bagnati
+  - Andree Delahaye-Duriez
+  - Jeong-Hun Ko
+  - Maxime Rotival
+  - Sarah R Langley
+  - Kirill Shkura
+  - Manuela Mazzuferi
+  - "B\xE9n\xE9dicte Danis"
+  - Jonathan van Eyll
+  - Patrik Foerch
+  - Jacques Behmoaras
+  - Rafal M Kaminski
+  - Enrico Petretto
+  - Michael R Johnson
+  publisher: Genome research
+  date: '2017-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28250018
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28213474
+  title: A Bayesian Approach for Analysis of Whole-Genome Bisulfite Sequencing Data
+    Identifies Disease-Associated Changes in DNA Methylation.
+  authors:
+  - Owen J L Rackham
+  - Sarah R Langley
+  - Thomas Oates
+  - Eleni Vradi
+  - Nathan Harmston
+  - Prashant K Srivastava
+  - Jacques Behmoaras
+  - Petros Dellaportas
+  - Leonardo Bottolo
+  - Enrico Petretto
+  publisher: Genetics
+  date: '2017-02-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28213474
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27933533
+  title: Systems Genetics as a Tool to Identify Master Genetic Regulators in Complex
+    Disease.
+  authors:
+  - Aida Moreno-Moral
+  - Francesco Pesce
+  - Jacques Behmoaras
+  - Enrico Petretto
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2017-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27933533
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27483348
+  title: Identification of a nutrient-sensing transcriptional network in monocytes
+    by using inbred rat models on a cafeteria diet.
+  authors:
+  - "Neus Mart\xEDnez-Micaelo"
+  - "Noemi Gonz\xE1lez-Abu\xEDn"
+  - Ximena Terra
+  - "Ana Ard\xE9vol"
+  - Montserrat Pinent
+  - Enrico Petretto
+  - Jacques Behmoaras
+  - Mayte Blay
+  publisher: Disease models & mechanisms
+  date: '2016-07-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27483348
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26728561
+  title: 'Human Chorionic Stem Cells: Podocyte Differentiation and Potential for the
+    Treatment of Alport Syndrome.'
+  authors:
+  - Dafni Moschidou
+  - Michelangelo Corcelli
+  - Kwan-Leong Hau
+  - Victoria J Ekwalla
+  - Jacques V Behmoaras
+  - Paolo De Coppi
+  - Anna L David
+  - George Bou-Gharios
+  - H Terence Cook
+  - Charles D Pusey
+  - Nicholas M Fisk
+  - Pascale V Guillot
+  publisher: Stem cells and development
+  date: '2016-02-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26728561
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26450996
+  title: Leptin signal transduction underlies the differential metabolic response
+    of LEW and WKY rats to cafeteria diet.
+  authors:
+  - "N Mart\xEDnez-Micaelo"
+  - "N Gonz\xE1lez-Abu\xEDn"
+  - "A Ard\xE9vol"
+  - M Pinent
+  - E Petretto
+  - J Behmoaras
+  - M Blay
+  publisher: Journal of molecular endocrinology
+  date: '2015-10-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26450996
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25840911
+  title: Macrophage epoxygenase determines a profibrotic transcriptome signature.
+  authors:
+  - Jacques Behmoaras
+  - Ana Garcia Diaz
+  - Lara Venda
+  - Jeong-Hun Ko
+  - Prashant Srivastava
+  - Alex Montoya
+  - Peter Faull
+  - Zoe Webster
+  - Ben Moyon
+  - Charles D Pusey
+  - David J Abraham
+  - Enrico Petretto
+  - Terence H Cook
+  - Timothy J Aitman
+  publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
+  date: '2015-04-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25840911
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25675206
+  title: Use of Quantitative Real Time Polymerase Chain Reaction to Assess Gene Transcripts
+    Associated With Antibody-Mediated Rejection of Kidney Transplants.
+  authors:
+  - Katherine M Dominy
+  - Candice Roufosse
+  - Hanneke de Kort
+  - Michelle Willicombe
+  - Paul Brookes
+  - Jacques V Behmoaras
+  - Enrico G Petretto
+  - Jack Galliford
+  - Peter Choi
+  - David Taube
+  - H Terence Cook
+  - Adam G Mclean
+  publisher: Transplantation
+  date: '2015-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25675206
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25615886
+  title: Systems genetics identifies Sestrin 3 as a regulator of a proconvulsant gene
+    network in human epileptic hippocampus.
+  authors:
+  - Michael R Johnson
+  - Jacques Behmoaras
+  - Leonardo Bottolo
+  - Michelle L Krishnan
+  - Katharina Pernhorst
+  - Paola L Meza Santoscoy
+  - Tiziana Rossetti
+  - Doug Speed
+  - Prashant K Srivastava
+  - Marc Chadeau-Hyam
+  - Nabil Hajji
+  - Aleksandra Dabrowska
+  - Maxime Rotival
+  - Banafsheh Razzaghi
+  - Stjepana Kovac
+  - Klaus Wanisch
+  - Federico W Grillo
+  - Anna Slaviero
+  - Sarah R Langley
+  - Kirill Shkura
+  - Paolo Roncon
+  - Tisham De
+  - Manuel Mattheisen
+  - Pitt Niehusmann
+  - Terence J O'Brien
+  - Slave Petrovski
+  - Marec von Lehe
+  - Per Hoffmann
+  - Johan Eriksson
+  - Alison J Coffey
+  - Sven Cichon
+  - Matthew Walker
+  - Michele Simonato
+  - "B\xE9n\xE9dicte Danis"
+  - Manuela Mazzuferi
+  - Patrik Foerch
+  - Susanne Schoch
+  - Vincenzo De Paola
+  - Rafal M Kaminski
+  - Vincent T Cunliffe
+  - Albert J Becker
+  - Enrico Petretto
+  publisher: Nature communications
+  date: '2015-01-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25615886
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25532521
+  title: Integrating phosphoproteome and transcriptome reveals new determinants of
+    macrophage multinucleation.
+  authors:
+  - Maxime Rotival
+  - Jeong-Hun Ko
+  - Prashant K Srivastava
+  - Audrey Kerloc'h
+  - Alex Montoya
+  - Claudio Mauro
+  - Peter Faull
+  - Pedro R Cutillas
+  - Enrico Petretto
+  - Jacques Behmoaras
+  publisher: 'Molecular & cellular proteomics : MCP'
+  date: '2014-12-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25532521
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25343449
+  title: Unique regulatory properties of mesangial cells are genetically determined
+    in the rat.
+  authors:
+  - Ping-Chin Lai
+  - Ling-Yin Chiu
+  - Prashant Srivastava
+  - Cristina Trento
+  - Francesco Dazzi
+  - Enrico Petretto
+  - H Terence Cook
+  - Jacques Behmoaras
+  publisher: PloS one
+  date: '2014-10-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25343449
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25131209
+  title: Kcnn4 is a regulator of macrophage multinucleation in bone homeostasis and
+    inflammatory disease.
+  authors:
+  - Heeseog Kang
+  - Audrey Kerloc'h
+  - Maxime Rotival
+  - Xiaoqing Xu
+  - Qing Zhang
+  - Zelpha D'Souza
+  - Michael Kim
+  - Jodi Carlson Scholz
+  - Jeong-Hun Ko
+  - Prashant K Srivastava
+  - Jonathan R Genzen
+  - Weiguo Cui
+  - Timothy J Aitman
+  - Laurence Game
+  - James E Melvin
+  - Adedayo Hanidu
+  - Janice Dimock
+  - Jie Zheng
+  - Donald Souza
+  - Aruna K Behera
+  - Gerald Nabozny
+  - H Terence Cook
+  - J H Duncan Bassett
+  - Graham R Williams
+  - Jun Li
+  - "Agn\xE8s Vignery"
+  - Enrico Petretto
+  - Jacques Behmoaras
+  publisher: Cell reports
+  date: '2014-08-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25131209
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24053712
+  title: JunD/AP1 regulatory network analysis during macrophage activation in a rat
+    model of crescentic glomerulonephritis.
+  authors:
+  - Prashant K Srivastava
+  - Richard P Hull
+  - Jacques Behmoaras
+  - Enrico Petretto
+  - Timothy J Aitman
+  publisher: BMC systems biology
+  date: '2013-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24053712
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24046355
+  title: 'Experimental crescentic glomerulonephritis: a new bicongenic rat model.'
+  authors:
+  - Zelpha D'Souza
+  - Stephen P McAdoo
+  - Jennifer Smith
+  - Charles D Pusey
+  - H Terence Cook
+  - Jacques Behmoaras
+  - Timothy J Aitman
+  publisher: Disease models & mechanisms
+  date: '2013-08-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24046355
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23918751
+  title: Potassium channel openers increase aortic elastic fiber formation and reverse
+    the genetically determined elastin deficit in the BN rat.
+  authors:
+  - "S\xE9verin Slove"
+  - Morgane Lannoy
+  - Jacques Behmoaras
+  - "Myl\xE8ne Pezet"
+  - Natacha Sloboda
+  - Patrick Lacolley
+  - Brigitte Escoubet
+  - "Julia Buj\xE1n"
+  - Marie-Paule Jacob
+  publisher: 'Hypertension (Dallas, Tex. : 1979)'
+  date: '2013-08-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23918751
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23398888
+  title: "Combined ChIP-Seq and transcriptome analysis identifies AP-1/JunD as a primary\
+    \ regulator of oxidative stress and IL-1\u03B2 synthesis in macrophages."
+  authors:
+  - Richard P Hull
+  - Prashant K Srivastava
+  - Zelpha D'Souza
+  - Santosh S Atanur
+  - Fatima Mechta-Grigoriou
+  - Laurence Game
+  - Enrico Petretto
+  - H Terence Cook
+  - Timothy J Aitman
+  - Jacques Behmoaras
+  publisher: BMC genomics
+  date: '2013-02-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23398888
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23089744
+  title: P2X7 receptor-mediated Nlrp3-inflammasome activation is a genetic determinant
+    of macrophage-dependent crescentic glomerulonephritis.
+  authors:
+  - Simona Deplano
+  - H Terence Cook
+  - Ryan Russell
+  - Luigi Franchi
+  - Sabine Schneiter
+  - Gurjeet Bhangal
+  - Robert J Unwin
+  - Charles D Pusey
+  - Frederick W K Tam
+  - Jacques Behmoaras
+  publisher: Journal of leukocyte biology
+  date: '2012-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23089744
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22445570
+  title: Genetic susceptibility to experimental autoimmune glomerulonephritis in the
+    Wistar Kyoto rat.
+  authors:
+  - John Reynolds
+  - Paul R Cook
+  - Jacques Behmoaras
+  - Jennifer Smith
+  - Gurjeet Bhangal
+  - Susan Tadros
+  - Jonathan Tee
+  - Alan D Salama
+  - David J Evans
+  - Timothy J Aitman
+  - H Terence Cook
+  - Charles D Pusey
+  publisher: The American journal of pathology
+  date: '2012-03-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22445570
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22184119
+  title: Role of novel rat-specific Fc receptor in macrophage activation associated
+    with crescentic glomerulonephritis.
+  authors:
+  - Theresa H Page
+  - Zelpha D'Souza
+  - Satoshi Nakanishi
+  - Tadao Serikawa
+  - Charles D Pusey
+  - Timothy J Aitman
+  - H Terence Cook
+  - Jacques Behmoaras
+  publisher: The Journal of biological chemistry
+  date: '2011-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22184119
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21640331
+  title: AP-1 transcription factor JunD confers protection from accelerated nephrotoxic
+    nephritis and control podocyte-specific Vegfa expression.
+  authors:
+  - H Terence Cook
+  - Ruth Tarzi
+  - Zelpha D'Souza
+  - Gaelle Laurent
+  - Wei-Chou Lin
+  - Timothy J Aitman
+  - Fatima Mechta-Grigoriou
+  - Jacques Behmoaras
+  publisher: The American journal of pathology
+  date: '2011-05-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21640331
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21179115
+  title: Characterization of the macrophage transcriptome in glomerulonephritis-susceptible
+    and -resistant rat strains.
+  authors:
+  - K Maratou
+  - J Behmoaras
+  - C Fewings
+  - P Srivastava
+  - Z D'Souza
+  - J Smith
+  - L Game
+  - T Cook
+  - T Aitman
+  publisher: Genes and immunity
+  date: '2010-12-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21179115
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20488952
+  title: Genetic loci modulate macrophage activity and glomerular damage in experimental
+    glomerulonephritis.
+  authors:
+  - Jacques Behmoaras
+  - Jennifer Smith
+  - Zelpha D'Souza
+  - Gurjeet Bhangal
+  - Ratana Chawanasuntoropoj
+  - Frederick W K Tam
+  - Charles D Pusey
+  - Timothy J Aitman
+  - H Terence Cook
+  publisher: 'Journal of the American Society of Nephrology : JASN'
+  date: '2010-05-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20488952
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20430781
+  title: 'The genome sequence of the spontaneously hypertensive rat: Analysis and
+    functional significance.'
+  authors:
+  - Santosh S Atanur
+  - "Inan\xE7 Birol"
+  - Victor Guryev
+  - Martin Hirst
+  - Oliver Hummel
+  - Catherine Morrissey
+  - Jacques Behmoaras
+  - Xose M Fernandez-Suarez
+  - Michelle D Johnson
+  - William M McLaren
+  - Giannino Patone
+  - Enrico Petretto
+  - Charles Plessy
+  - Kathleen S Rockland
+  - Charles Rockland
+  - Kathrin Saar
+  - Yongjun Zhao
+  - Piero Carninci
+  - Paul Flicek
+  - Ted Kurtz
+  - Edwin Cuppen
+  - Michal Pravenec
+  - Norbert Hubner
+  - Steven J M Jones
+  - Ewan Birney
+  - Timothy J Aitman
+  publisher: Genome research
+  date: '2010-04-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20430781
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20013223
+  title: Genetic mapping and positional cloning.
+  authors:
+  - Timothy J Aitman
+  - Enrico Petretto
+  - Jacques Behmoaras
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2010-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20013223
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19666659
+  title: 'Kallikreins: unravelling the genetics of autoimmune glomerulonephritis.'
+  authors:
+  - Jacques Behmoaras
+  - H Terence Cook
+  - Charles D Pusey
+  publisher: 'Nephrology, dialysis, transplantation : official publication of the
+    European Dialysis and Transplant Association - European Renal Association'
+  date: '2009-08-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19666659
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18803461
+  title: Differential expression of lysyl oxidases LOXL1 and LOX during growth and
+    aging suggests specific roles in elastin and collagen fiber remodeling in rat
+    aorta.
+  authors:
+  - Jacques Behmoaras
+  - "S\xE9verin Slove"
+  - Sophie Seve
+  - Roger Vranckx
+  - Pascal Sommer
+  - Marie-Paule Jacob
+  publisher: Rejuvenation research
+  date: '2008-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18803461
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18443593
+  title: Jund is a determinant of macrophage activation and is associated with glomerulonephritis
+    susceptibility.
+  authors:
+  - Jacques Behmoaras
+  - Gurjeet Bhangal
+  - Jennifer Smith
+  - Kylie McDonald
+  - Brenda Mutch
+  - Ping Chin Lai
+  - Jan Domin
+  - Laurence Game
+  - Alan Salama
+  - Brian M Foxwell
+  - Charles D Pusey
+  - H Terence Cook
+  - Timothy J Aitman
+  publisher: Nature genetics
+  date: '2008-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18443593
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:17475818
+  title: Genes expressed by both mesangial cells and bone marrow-derived cells underlie
+    genetic susceptibility to crescentic glomerulonephritis in the rat.
+  authors:
+  - Jennifer Smith
+  - Ping-Chin Lai
+  - Jacques Behmoaras
+  - Candice Roufosse
+  - Gurjeet Bhangal
+  - John P McDaid
+  - Timothy Aitman
+  - Frederick W K Tam
+  - Charles D Pusey
+  - H Terence Cook
+  publisher: 'Journal of the American Society of Nephrology : JASN'
+  date: '2007-05-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17475818
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:17356016
+  title: Quantitative genetic basis of arterial phenotypes in the Brown Norway rat.
+  authors:
+  - Lalitha Kota
+  - Mary Osborne-Pellegrin
+  - Herbert Schulz
+  - Jacques Behmoaras
+  - "Mich\xE8le Coutard"
+  - Maolian Gong
+  - "Norbert H\xFCbner"
+  publisher: Physiological genomics
+  date: '2007-03-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17356016
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:15668357
+  title: Chromosomal mapping of quantitative trait loci controlling elastin content
+    in rat aorta.
+  authors:
+  - Dominique Gauguier
+  - Jacques Behmoaras
+  - "Kar\xE8ne Argoud"
+  - Steven P Wilder
+  - Christelle Pradines
+  - "Marie Th\xE9r\xE8se Bihoreau"
+  - Mary Osborne-Pellegrin
+  - Marie Paule Jacob
+  publisher: 'Hypertension (Dallas, Tex. : 1979)'
+  date: '2005-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15668357
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:15471977
+  title: Characteristics of the aortic elastic network and related phenotypes in seven
+    inbred rat strains.
+  authors:
+  - Jacques Behmoaras
+  - Mary Osborne-Pellegrin
+  - Dominique Gauguier
+  - Marie-Paule Jacob
+  publisher: American journal of physiology. Heart and circulatory physiology
+  date: '2004-10-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15471977
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml

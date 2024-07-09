@@ -53,12 +53,13 @@ header a {
   flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
+  font-size: var(--xxl);
   font-family: var(--title);
   text-align: left;
 }
 
 .title {
-  font-size: var(--large);
+  font-size: var(--xxl);
 }
 
 .subtitle {
@@ -154,6 +155,7 @@ header[data-big] {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    font-size: var(--xxl);
   }
 
   .title {

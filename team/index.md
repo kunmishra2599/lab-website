@@ -7,29 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### We have a mix of wet-lab and dry-lab focused researchers in our team! Contact us if you are interested to join and work with us.
 
 {% include section.html %}
 
+## Current Team
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, alumni:false" %}
+{% include list.html data="members" component="portrait" filters="role: phd, alumni:false" %}
+{% include list.html data="members" component="portrait" filters="role: research-assistant,alumni:false" %}
+{% include list.html data="members" component="portrait" filters="role: staff" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
+## Alumni
+{% include list.html data="members" component="portrait" filters="alumni:true" %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
+{% include figure.html image="images/lab-pic-1.jpg" %}
+{% include figure.html image="images/lab-pic-2.jpg" %}
+{% include figure.html image="images/ccb.jpg" %}
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
