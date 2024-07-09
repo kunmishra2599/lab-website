@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-### We have a mix of wet-lab and dry-lab focused researchers in our team! Contact us if you are interested to join and work with us.
-
 {% include section.html %}
 
 ## Current Team
