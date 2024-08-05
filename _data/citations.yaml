@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39024103
+  title: Fatty acid synthesis promotes inflammasome activation through NLRP3 palmitoylation.
+  authors:
+  - Stuart Leishman
+  - Najd M Aljadeed
+  - Liyunhe Qian
+  - Shamshad Cockcroft
+  - Jacques Behmoaras
+  - Paras K Anand
+  publisher: Cell reports
+  date: '2024-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39024103
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38677183
   title: "Multi-tissue profiling of oxylipins reveal a conserved up-regulation of\
     \ epoxide:diol ratio that associates with white\_adipose tissue inflammation and\
