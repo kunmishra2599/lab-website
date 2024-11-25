@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39024103
+  title: Fatty acid synthesis promotes inflammasome activation through NLRP3 palmitoylation.
+  authors:
+  - Stuart Leishman
+  - Najd M Aljadeed
+  - Liyunhe Qian
+  - Shamshad Cockcroft
+  - Jacques Behmoaras
+  - Paras K Anand
+  publisher: Cell reports
+  date: '2024-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39024103
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38677183
   title: "Multi-tissue profiling of oxylipins reveal a conserved up-regulation of\
     \ epoxide:diol ratio that associates with white\_adipose tissue inflammation and\
@@ -162,29 +177,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:35844525
-  title: Immunolipidomics Reveals a Globoside Network During the Resolution of Pro-Inflammatory
-    Response in Human Macrophages.
-  authors:
-  - Sneha Muralidharan
-  - Federico Torta
-  - Michelle K Lin
-  - Antoni Olona
-  - Marta Bagnati
-  - Aida Moreno-Moral
-  - Jeong-Hun Ko
-  - Shanshan Ji
-  - Bo Burla
-  - Markus R Wenk
-  - Hosana G Rodrigues
-  - Enrico Petretto
-  - Jacques Behmoaras
-  publisher: Frontiers in immunology
-  date: '2022-06-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35844525
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:35239186
   title: Glomerulonephritis and autoimmune vasculitis are independent of P2RX7 but
     may depend on alternative inflammasome pathways.
@@ -333,25 +325,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:33148611
-  title: BCAT1 affects mitochondrial metabolism independently of leucine transamination
-    in activated human macrophages.
-  authors:
-  - Jeong-Hun Ko
-  - Antoni Olona
-  - Adonia E Papathanassiu
-  - Norzawani Buang
-  - Kwon-Sik Park
-  - Ana S H Costa
-  - Claudio Mauro
-  - Christian Frezza
-  - Jacques Behmoaras
-  publisher: Journal of cell science
-  date: '2020-11-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33148611
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:32553114
   title: A trans-eQTL network regulates osteoclast multinucleation and bone mass.
   authors:
@@ -430,26 +403,6 @@
   publisher: Cell reports
   date: '2019-07-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31291584
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:30674726
-  title: Systems genetics identifies a macrophage cholesterol network associated with
-    physiological wound healing.
-  authors:
-  - Marta Bagnati
-  - Aida Moreno-Moral
-  - Jeong-Hun Ko
-  - "J\xE9r\xF4me Nicod"
-  - Nathan Harmston
-  - Martha Imprialou
-  - Laurence Game
-  - Jesus Gil
-  - Enrico Petretto
-  - Jacques Behmoaras
-  publisher: JCI insight
-  date: '2019-01-24'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30674726
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -541,29 +494,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:29348297
-  title: Changes in macrophage transcriptome associate with systemic sclerosis and
-    mediate
-  authors:
-  - Aida Moreno-Moral
-  - Marta Bagnati
-  - Surya Koturan
-  - Jeong-Hun Ko
-  - Carmen Fonseca
-  - Nathan Harmston
-  - Laurence Game
-  - Javier Martin
-  - Voon Ong
-  - David J Abraham
-  - Christopher P Denton
-  - Jacques Behmoaras
-  - Enrico Petretto
-  publisher: Annals of the rheumatic diseases
-  date: '2018-01-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29348297
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:28699638
   title: BCAT1 controls metabolic reprogramming in activated human macrophages and
     is associated with inflammatory diseases.
@@ -628,26 +558,6 @@
   publisher: Genome research
   date: '2017-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28250018
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:28213474
-  title: A Bayesian Approach for Analysis of Whole-Genome Bisulfite Sequencing Data
-    Identifies Disease-Associated Changes in DNA Methylation.
-  authors:
-  - Owen J L Rackham
-  - Sarah R Langley
-  - Thomas Oates
-  - Eleni Vradi
-  - Nathan Harmston
-  - Prashant K Srivastava
-  - Jacques Behmoaras
-  - Petros Dellaportas
-  - Leonardo Bottolo
-  - Enrico Petretto
-  publisher: Genetics
-  date: '2017-02-17'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28213474
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -816,26 +726,6 @@
   publisher: Nature communications
   date: '2015-01-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25615886
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:25532521
-  title: Integrating phosphoproteome and transcriptome reveals new determinants of
-    macrophage multinucleation.
-  authors:
-  - Maxime Rotival
-  - Jeong-Hun Ko
-  - Prashant K Srivastava
-  - Audrey Kerloc'h
-  - Alex Montoya
-  - Claudio Mauro
-  - Peter Faull
-  - Pedro R Cutillas
-  - Enrico Petretto
-  - Jacques Behmoaras
-  publisher: 'Molecular & cellular proteomics : MCP'
-  date: '2014-12-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25532521
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1025,24 +915,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:21640331
-  title: AP-1 transcription factor JunD confers protection from accelerated nephrotoxic
-    nephritis and control podocyte-specific Vegfa expression.
-  authors:
-  - H Terence Cook
-  - Ruth Tarzi
-  - Zelpha D'Souza
-  - Gaelle Laurent
-  - Wei-Chou Lin
-  - Timothy J Aitman
-  - Fatima Mechta-Grigoriou
-  - Jacques Behmoaras
-  publisher: The American journal of pathology
-  date: '2011-05-03'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21640331
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:21179115
   title: Characterization of the macrophage transcriptome in glomerulonephritis-susceptible
     and -resistant rat strains.
@@ -1117,18 +989,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:20013223
-  title: Genetic mapping and positional cloning.
-  authors:
-  - Timothy J Aitman
-  - Enrico Petretto
-  - Jacques Behmoaras
-  publisher: Methods in molecular biology (Clifton, N.J.)
-  date: '2010-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/20013223
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:19666659
   title: 'Kallikreins: unravelling the genetics of autoimmune glomerulonephritis.'
   authors:
@@ -1179,26 +1039,6 @@
   publisher: Nature genetics
   date: '2008-05-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18443593
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:17475818
-  title: Genes expressed by both mesangial cells and bone marrow-derived cells underlie
-    genetic susceptibility to crescentic glomerulonephritis in the rat.
-  authors:
-  - Jennifer Smith
-  - Ping-Chin Lai
-  - Jacques Behmoaras
-  - Candice Roufosse
-  - Gurjeet Bhangal
-  - John P McDaid
-  - Timothy Aitman
-  - Frederick W K Tam
-  - Charles D Pusey
-  - H Terence Cook
-  publisher: 'Journal of the American Society of Nephrology : JASN'
-  date: '2007-05-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/17475818
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
