@@ -9,9 +9,7 @@ links:
   home-page: kunalmishra.me
   email: kunalmishra@u.duke.nus.edu
   # github: kunmishra2599
-  researchgate: profile/Kunal-Mishra-15
   orcid: 0000-0003-0460-2554
-  twitter: freeribosomes
 ---
 ### Education
 - **2021 - Present** Ph.D. in Computational Biology, Duke-NUS Medical School, Singapore
