@@ -960,6 +960,26 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:23398888
+  title: "Combined ChIP-Seq and transcriptome analysis identifies AP-1/JunD as a primary\
+    \ regulator of oxidative stress and IL-1\u03B2 synthesis in macrophages."
+  authors:
+  - Richard P Hull
+  - Prashant K Srivastava
+  - Zelpha D'Souza
+  - Santosh S Atanur
+  - Fatima Mechta-Grigoriou
+  - Laurence Game
+  - Enrico Petretto
+  - H Terence Cook
+  - Timothy J Aitman
+  - Jacques Behmoaras
+  publisher: BMC genomics
+  date: '2013-02-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23398888
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:23089744
   title: P2X7 receptor-mediated Nlrp3-inflammasome activation is a genetic determinant
     of macrophage-dependent crescentic glomerulonephritis.
@@ -1174,6 +1194,26 @@
   publisher: Nature genetics
   date: '2008-05-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18443593
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:17475818
+  title: Genes expressed by both mesangial cells and bone marrow-derived cells underlie
+    genetic susceptibility to crescentic glomerulonephritis in the rat.
+  authors:
+  - Jennifer Smith
+  - Ping-Chin Lai
+  - Jacques Behmoaras
+  - Candice Roufosse
+  - Gurjeet Bhangal
+  - John P McDaid
+  - Timothy Aitman
+  - Frederick W K Tam
+  - Charles D Pusey
+  - H Terence Cook
+  publisher: 'Journal of the American Society of Nephrology : JASN'
+  date: '2007-05-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17475818
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
