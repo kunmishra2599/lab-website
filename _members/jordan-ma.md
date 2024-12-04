@@ -1,6 +1,6 @@
 ---
 name: Jordan Ma
-image: images/lab-members/jordan-ma.jped
+image: images/lab-members/jordan-ma.jpeg
 role: phd
 alumni: true
 affiliation: 2024
