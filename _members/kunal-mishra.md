@@ -11,9 +11,6 @@ links:
   # github: kunmishra2599
   orcid: 0000-0003-0460-2554
 ---
-### Education
-- **2021 - Present** Ph.D. in Computational Biology, Duke-NUS Medical School, Singapore
-- **2017 - 2021** BSc. (Hons.) in Biological Sciences & Medicinal Chemistry, Nanyang Technological University, Singapore
 ### Brief
 - Kunal will add all these later on
 

@@ -10,10 +10,6 @@ links:
 #   researchgate: profile/Antoni-Olona
   email: shuangw@duke-nus.edu.sg
 ---
-### Education
-- 2011 PhD in dentistry, Nihon University School of Dentistry at Matsudo, Chiba, Japan
-- 1997 BSc in dentistry, Capital Medical University, Beijing, China
-
 ### Brief
 - I’m a dentist from China.
 - From 2018 to 2021, I worked as a research fellow on Dental Pulp Regeneration in Dentistry of NUS. In 2023 I joined in the Centre for Computational Biology, Duke-NUS medical school in Singapore. I’m currently studying the mechanisms of iron metabolism in macrophages. 

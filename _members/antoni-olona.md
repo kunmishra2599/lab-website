@@ -10,10 +10,6 @@ links:
   researchgate: profile/Antoni-Olona
   email: toni.olona@duke-nus.edu.sg
 ---
-### Education
-- PhD in Immunology & Metabolism, Imperial College London, United Kingdom
-- MSc in Genetics, University of Barcelona, Spain
-- BSc in Biology, University of Barcelona, Spain
 ### Brief
 Toni graduated with a Bachelor’s in Biology and a Master’s in Genetics from the University of Barcelona in Spain. He then moved to St. George's Hospital, University of London, where he gained experience in cell biology and microscopy. He obtained a PhD in immunology and metabolism at Imperial College London under the supervision of Jacques Behmoaras. He then gained post-doctoral experience in the Department of Infectious Disease at Imperial College London, where he studied macrophage metabolism pathways regulating the inflammasome. 
 

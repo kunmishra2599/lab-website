@@ -10,9 +10,6 @@ links:
   linkedin: harry-park-b82418179
   email: harrypark@u.duke.nus.edu
 ---
-### Education
-- **2021 - Present** Ph.D. in Computational Biology, Duke-NUS Medical School, Singapore
-- **2016 - 2021** Bachelor's Degree in Biotechnology & Computer Science, The Hong Kong University of Science and Technology, Hong Kong
 ### Brief
 - Detail's about Harry's work and experience
 
