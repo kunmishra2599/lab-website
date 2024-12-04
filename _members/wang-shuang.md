@@ -11,8 +11,9 @@ links:
   email: shuangw@duke-nus.edu.sg
 ---
 ### Education
-- ???? PhD/MD in ???
-- ???? MSc in ???
-- ???? BSc in ??? 
+- 2011 PhD in dentistry, Nihon University School of Dentistry at Matsudo, Chiba, Japan
+- 1997 BSc in dentistry, Capital Medical University, Beijing, China
+
 ### Brief
-- Dr Shuang Wang is a Research Fellow in Assoc Prof Jacques' lab. She has a PhD in Nihon University School of Dentistry at Matsudo and over 20 years of clinical treatment and research experience. She is good at diagnosis and treatment of oral disease, and clinic basic research according to clinical symptoms. She is also proficient in the experimental skills of molecular biology such as cell culture, real-time PCR, western blot assay and animal experiments. 
+- I’m a dentist from China.
+- From 2018 to 2021, I worked as a research fellow on Dental Pulp Regeneration in Dentistry of NUS. In 2023 I joined in the Centre for Computational Biology, Duke-NUS medical school in Singapore. I’m currently studying the mechanisms of iron metabolism in macrophages. 
