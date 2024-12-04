@@ -3,7 +3,6 @@ name: Jacques Vincent Behmoaras
 image: images/lab-members/jacques-behmoaras.png
 role: pi
 alumni: false
-affiliation: Duke-NUS Medical School, Imperial College London
 aliases:
   - J. Behmoaras
   - J Behmoaras
