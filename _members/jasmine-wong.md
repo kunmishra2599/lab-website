@@ -1,6 +1,6 @@
 ---
 name: Jasmine Wong
-image: images/lab-members/jasmine-wong.phd
+image: images/lab-members/jasmine-wong.jpg
 role: phd
 alumni: true
 affiliation: 2024
