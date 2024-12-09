@@ -1,6 +1,6 @@
 ---
 name: Ning Yuan Shen
-image: images/lab-members/batman.jpg
+image: images/lab-members/ning-yuan.jpeg
 role: phd
 group: alum
 alumni: false
