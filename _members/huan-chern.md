@@ -10,4 +10,4 @@ links:
   email: huanchern_chia@duke-nus.edu.sg
 ---
 ### Brief
-###  This lab would collapse without her help
+Huan Chern is an executive in our department. She helps us with administrative matters, liasing with our collaborators, and keeps us well fed with snacks from time to time 🍕!

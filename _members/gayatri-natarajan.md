@@ -11,4 +11,4 @@ links:
   email: gaya3@duke-nus.edu.sg
 ---
 ### Brief
--  In her free time, Gayatri loves to experiment with various food recipes to build her own unique flavour. 
+Gayatri is our lab manager. She helps us with purchases, animal work, and administrstive matters. She also works on the aging and GSPE project. 

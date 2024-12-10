@@ -9,4 +9,4 @@ links:
 
 ---
 ### Brief
-- During her time, Jasmine helped extract RNA from ~ 280 diabetic mouse kidneys for RNA-sequencing. This helped us perform expression QTL mapping and identify novel regulators of Diabetic Nephropathy. 
+During her time, Jasmine helped extract RNA from ~ 280 diabetic mouse kidneys for RNA-sequencing. This helped us perform expression QTL mapping and identify novel regulators of Diabetic Nephropathy. 

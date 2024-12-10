@@ -7,5 +7,7 @@ alumni: false
 description: Research Fellow
 ---
 ### Brief
-- I obtained my PhD from Department of Medicine, National University of Singapore, where I worked on long non-coding RNAs in cardiomyocyte development and maturation.
-- I joined the lab in Centre for Computational Biology, Duke-NUS, as a research fellow in 2024. I am studying the mechanism of ageing and iron metabolism.
+
+Yiqing obtained her PhD from Department of Medicine, National University of Singapore, where she worked on long non-coding RNAs in cardiomyocyte development and maturation.
+
+She joined the lab in Centre for Computational Biology, Duke-NUS, as a research fellow in 2024. She is studying the mechanism of ageing and iron metabolism.

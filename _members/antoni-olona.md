@@ -1,5 +1,5 @@
 ---
-name: Antoni (Toni) Maria Olona Ferrer 
+name: Antoni Maria Olona Ferrer 
 image: images/lab-members/antoni-olona.jpeg
 role: postdoc
 group: alum

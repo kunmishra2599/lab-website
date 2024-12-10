@@ -15,6 +15,6 @@ links:
 - **2023 - Present** Ph.D. in Computational Biology, Duke-NUS Medical School, Singapore
 - **2017 - 2021** BSc in Computational Biology, National University of Singapore, Singapore
 ### Brief
-- I am a PhD student from Prof Wang Linfa's lab, co-supervised by Jacques
-- I study macrophages, bats, and bat macrophages 
+- Ning is a PhD student from Prof Wang Linfa's lab, co-supervised by Jacques
+- He studies macrophages, bats, and bat macrophages 
 

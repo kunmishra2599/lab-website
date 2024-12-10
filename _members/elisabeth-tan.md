@@ -10,4 +10,4 @@ links:
   email: elisabeth.tan@duke-nus.edu.sg
 ---
 ### Brief
-###  This lab would collapse without her help
+Elisabeth manages our lab's affairs, and handles everything from lab safety to administrative matters!

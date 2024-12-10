@@ -13,4 +13,4 @@ links:
 
 ---
 ### Brief
-- Florijan's Project is on Ecnomotopic bitter taste receptors as targets for better health in the obesity or the ageing. He is currently a student at Universitat Rovira i Virgili in Tarragona. 
+Florijan's Project is on Ecnomotopic bitter taste receptors as targets for better health in the obesity or the ageing. He is currently a student at Universitat Rovira i Virgili in Tarragona. 

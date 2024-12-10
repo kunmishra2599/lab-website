@@ -9,4 +9,4 @@ links:
 
 ---
 ### Brief
-- During his time, Jordan worked to align and perform basic analysis on RNA-seq data from bariatric surgery patients. 
+During his time, Jordan worked to align and perform basic analysis on RNA-seq data from bariatric surgery patients. 

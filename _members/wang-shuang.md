@@ -11,5 +11,4 @@ links:
   email: shuangw@duke-nus.edu.sg
 ---
 ### Brief
-- I’m a dentist from China.
-- From 2018 to 2021, I worked as a research fellow on Dental Pulp Regeneration in Dentistry of NUS. In 2023 I joined in the Centre for Computational Biology, Duke-NUS medical school in Singapore. I’m currently studying the mechanisms of iron metabolism in macrophages. 
+Shuang is a dentist from China. From 2018 to 2021, She worked as a research fellow on Dental Pulp Regeneration in Dentistry of NUS. In 2023, She joined in the Centre for Computational Biology, Duke-NUS medical school in Singapore. She is currently studying the mechanisms of iron metabolism in macrophages. 

@@ -9,4 +9,4 @@ links:
 
 ---
 ### Brief
-- During her time, Li Mei worked on identifying sex-dependent effects on obesity and responses to GSPE treatment.
+During her time, Li Mei worked on identifying sex-dependent effects on obesity and responses to GSPE treatment.
