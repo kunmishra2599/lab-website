@@ -4,7 +4,7 @@ image: images/lab-members/gayatri-natarajan.jpg
 role: research-assistant
 group: alum
 description: Research Associate
-alumni: false
+alumni: true
 links:
   home-page: https://www.duke-nus.edu.sg/ccb/faculty/detail/Detail/Gayatri
 #   researchgate: profile/Antoni-Olona

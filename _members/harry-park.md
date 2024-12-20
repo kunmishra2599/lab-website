@@ -11,5 +11,6 @@ links:
   email: harrypark@u.duke.nus.edu
 ---
 ### Brief
-- Detail's about Harry's work and experience
-
+Harry is a PhD student at Duke-NUS Medical School, Centre for Computational Biology. She graduated with a degree in Bachelor of Science in Biotechnology and Computer Science from Hong Kong University of Science and Technology in 2021.
+ 
+Her thesis is on investigating the effect of a nutritional intervention for aging and elucidating targetable mechanisms of aging. Her research involves analysis of multi-omics data including single-cell RNA-sequencing, bulk RNA-sequencing, DNA methylation, and metabolomics data.
