@@ -11,4 +11,4 @@ links:
   email: gaya3@duke-nus.edu.sg
 ---
 ### Brief
-Gayatri is our lab manager. She helps us with purchases, animal work, and administrstive matters. She also works on the aging and GSPE project. 
+Gayatri was our lab manager from 2023 - 2024. She helped us with purchases, animal work, and administrstive matters. She also worked on the aging and GSPE project. 

@@ -3,7 +3,7 @@ name: Harry Park
 image: images/lab-members/harry-park.png
 # description: Lead Programmer
 role: phd
-alumni: false
+alumni: false 
 # group: alum
 links:
   home-page: https://www.duke-nus.edu.sg/ccb/phd-students/harry-park
