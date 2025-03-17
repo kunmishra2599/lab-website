@@ -89,23 +89,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:37706477
-  title: Systems level identification of a matrisome-associated macrophage polarisation
-    state in multi-organ fibrosis.
-  authors:
-  - John F Ouyang
-  - Kunal Mishra
-  - Yi Xie
-  - Harry Park
-  - Kevin Y Huang
-  - Enrico Petretto
-  - Jacques Behmoaras
-  publisher: eLife
-  date: '2023-09-14'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37706477
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:37016941
   title: Multinucleation resets human macrophages for specialized functions at the
     expense of their identity.
@@ -345,25 +328,6 @@
   publisher: The FEBS journal
   date: '2021-01-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33354925
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:33148611
-  title: BCAT1 affects mitochondrial metabolism independently of leucine transamination
-    in activated human macrophages.
-  authors:
-  - Jeong-Hun Ko
-  - Antoni Olona
-  - Adonia E Papathanassiu
-  - Norzawani Buang
-  - Kwon-Sik Park
-  - Ana S H Costa
-  - Claudio Mauro
-  - Christian Frezza
-  - Jacques Behmoaras
-  publisher: Journal of cell science
-  date: '2020-11-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33148611
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -680,24 +644,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:27483348
-  title: Identification of a nutrient-sensing transcriptional network in monocytes
-    by using inbred rat models on a cafeteria diet.
-  authors:
-  - "Neus Mart\xEDnez-Micaelo"
-  - "Noemi Gonz\xE1lez-Abu\xEDn"
-  - Ximena Terra
-  - "Ana Ard\xE9vol"
-  - Montserrat Pinent
-  - Enrico Petretto
-  - Jacques Behmoaras
-  - Mayte Blay
-  publisher: Disease models & mechanisms
-  date: '2016-07-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27483348
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:26728561
   title: 'Human Chorionic Stem Cells: Podocyte Differentiation and Potential for the
     Treatment of Alport Syndrome.'
@@ -757,28 +703,6 @@
   publisher: 'Journal of immunology (Baltimore, Md. : 1950)'
   date: '2015-04-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25840911
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:25675206
-  title: Use of Quantitative Real Time Polymerase Chain Reaction to Assess Gene Transcripts
-    Associated With Antibody-Mediated Rejection of Kidney Transplants.
-  authors:
-  - Katherine M Dominy
-  - Candice Roufosse
-  - Hanneke de Kort
-  - Michelle Willicombe
-  - Paul Brookes
-  - Jacques V Behmoaras
-  - Enrico G Petretto
-  - Jack Galliford
-  - Peter Choi
-  - David Taube
-  - H Terence Cook
-  - Adam G Mclean
-  publisher: Transplantation
-  date: '2015-09-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25675206
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -960,26 +884,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:23398888
-  title: "Combined ChIP-Seq and transcriptome analysis identifies AP-1/JunD as a primary\
-    \ regulator of oxidative stress and IL-1\u03B2 synthesis in macrophages."
-  authors:
-  - Richard P Hull
-  - Prashant K Srivastava
-  - Zelpha D'Souza
-  - Santosh S Atanur
-  - Fatima Mechta-Grigoriou
-  - Laurence Game
-  - Enrico Petretto
-  - H Terence Cook
-  - Timothy J Aitman
-  - Jacques Behmoaras
-  publisher: BMC genomics
-  date: '2013-02-11'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23398888
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:23089744
   title: P2X7 receptor-mediated Nlrp3-inflammasome activation is a genetic determinant
     of macrophage-dependent crescentic glomerulonephritis.
@@ -1037,24 +941,6 @@
   publisher: The Journal of biological chemistry
   date: '2011-12-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22184119
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:21640331
-  title: AP-1 transcription factor JunD confers protection from accelerated nephrotoxic
-    nephritis and control podocyte-specific Vegfa expression.
-  authors:
-  - H Terence Cook
-  - Ruth Tarzi
-  - Zelpha D'Souza
-  - Gaelle Laurent
-  - Wei-Chou Lin
-  - Timothy J Aitman
-  - Fatima Mechta-Grigoriou
-  - Jacques Behmoaras
-  publisher: The American journal of pathology
-  date: '2011-05-03'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21640331
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1157,23 +1043,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:18803461
-  title: Differential expression of lysyl oxidases LOXL1 and LOX during growth and
-    aging suggests specific roles in elastin and collagen fiber remodeling in rat
-    aorta.
-  authors:
-  - Jacques Behmoaras
-  - "S\xE9verin Slove"
-  - Sophie Seve
-  - Roger Vranckx
-  - Pascal Sommer
-  - Marie-Paule Jacob
-  publisher: Rejuvenation research
-  date: '2008-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/18803461
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:18443593
   title: Jund is a determinant of macrophage activation and is associated with glomerulonephritis
     susceptibility.
@@ -1230,24 +1099,6 @@
   publisher: Physiological genomics
   date: '2007-03-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/17356016
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:15668357
-  title: Chromosomal mapping of quantitative trait loci controlling elastin content
-    in rat aorta.
-  authors:
-  - Dominique Gauguier
-  - Jacques Behmoaras
-  - "Kar\xE8ne Argoud"
-  - Steven P Wilder
-  - Christelle Pradines
-  - "Marie Th\xE9r\xE8se Bihoreau"
-  - Mary Osborne-Pellegrin
-  - Marie Paule Jacob
-  publisher: 'Hypertension (Dallas, Tex. : 1979)'
-  date: '2005-01-24'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/15668357
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
