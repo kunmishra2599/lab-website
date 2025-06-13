@@ -9,4 +9,4 @@ A review by Jacques just got published at Nature Reviews Immunology. This compre
 
 Check out the review [here](https://doi.org/10.1038/s41577-025-01186-x)! - [The spatial and temporal activation of macrophages during fibrosis](https://doi.org/10.1038/s41577-025-01186-x)
 
-![Jacques and Enrico in front of a monitor](/images/posts/062025-jacques-nri-review.jpg)
+![Jacques and Enrico in front of a monitor]({{ '/images/posts/062025-jacques-nri-review.jpg' | relative_url }})
