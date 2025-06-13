@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40467841
+  title: The spatial and temporal activation of macrophages during fibrosis.
+  authors:
+  - Jacques Behmoaras
+  - Kevin Mulder
+  - Florent Ginhoux
+  - Enrico Petretto
+  publisher: Nature reviews. Immunology
+  date: '2025-06-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40467841
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39024103
   title: Fatty acid synthesis promotes inflammasome activation through NLRP3 palmitoylation.
   authors:
