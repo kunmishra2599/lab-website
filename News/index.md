@@ -5,7 +5,7 @@ nav:
   tooltip: News about the lab!
 ---
 
-# {% include icon.html icon="fa-solid fa-newspaper" %}Blog
+# {% include icon.html icon="fa-solid fa-newspaper" %} News
 
 This page contains recent news and updates about members in our lab. Check here for some interesting things we've done or been featured about!
 
