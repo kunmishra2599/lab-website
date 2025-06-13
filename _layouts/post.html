@@ -13,15 +13,8 @@ layout: default
   tags=page.tags
 %}
 
-{% include section.html %}
 
 {{ content }}
-
-{% if page.image %}
-  <div class="post-image center">
-    <img src="{{page.image}}" alt="{{ page.title }} image">
-  </div>
-{% endif %}
 
 {% include section.html %}
 
