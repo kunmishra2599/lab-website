@@ -9,4 +9,4 @@ Recently, one of our new joiners, Xiaoting, was selected to give a talk at the S
 
 Well done, Xiaoting!
 
-![Xiaoting giving a talk at SGSI 2025](/images/posts/xiaoting-talk-sgsi.jpeg)
+![Xiaoting giving a talk at SGSI 2025](/images/posts/052025-xiaoting-talk-sgsi.jpeg)
