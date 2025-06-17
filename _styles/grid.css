@@ -1,6 +1,6 @@
 .grid {
   display: grid;
-  --repeat: 3;
+  --repeat: 2;
   grid-template-columns: repeat(var(--repeat), 1fr);
   justify-content: center;
   align-items: flex-start;
@@ -29,10 +29,10 @@
   align-items: center;
 }
 .grid[data-style=square] > * {
-  aspect-ratio: 1/1;
+  aspect-ratio: 3/2;
 }
 .grid[data-style=square] img {
-  aspect-ratio: 1/1;
+  aspect-ratio: 3/2;
   object-fit: cover;
   max-width: unset;
   max-height: unset;
