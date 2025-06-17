@@ -21,6 +21,9 @@ nav:
 {% include figure.html image="images/lab-pic-1.jpg" %}
 {% include figure.html image="images/lab-pic-2.jpg" %}
 {% include figure.html image="images/ccb.jpg" %}
+{% include figure.html image="images/lab-pic-3.jpeg" %}
+{% include figure.html image="images/lab-pic-4.jpeg" %}
+{% include figure.html image="images/lab-pic-5.JPG" %}
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}

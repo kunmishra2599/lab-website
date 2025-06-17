@@ -6,7 +6,7 @@ $one: 500px;
 
 .grid {
   display: grid;
-  --repeat: 3;
+  --repeat: 2;
   grid-template-columns: repeat(var(--repeat), 1fr);
   justify-content: center;
   align-items: flex-start;
@@ -38,11 +38,11 @@ $one: 500px;
   align-items: center;
 
   & > * {
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 3 / 2;
   }
 
   & img {
-    aspect-ratio: 1 / 1;
+    aspect-ratio: 3 / 2;
     object-fit: cover;
     max-width: unset;
     max-height: unset;
