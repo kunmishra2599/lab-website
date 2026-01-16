@@ -944,6 +944,21 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:24053712
+  title: JunD/AP1 regulatory network analysis during macrophage activation in a rat
+    model of crescentic glomerulonephritis.
+  authors:
+  - Prashant K Srivastava
+  - Richard P Hull
+  - Jacques Behmoaras
+  - Enrico Petretto
+  - Timothy J Aitman
+  publisher: BMC systems biology
+  date: '2013-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24053712
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:24046355
   title: 'Experimental crescentic glomerulonephritis: a new bicongenic rat model.'
   authors:
