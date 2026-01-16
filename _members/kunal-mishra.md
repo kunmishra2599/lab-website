@@ -1,7 +1,7 @@
 ---
 name: Kunal Mishra
 image: images/lab-members/kunal-mishra.jpg
-role: phd
+role: postdoc
 group: alum
 alumni: false
 links:
@@ -10,7 +10,7 @@ links:
   email: kunalmishra@u.duke.nus.edu
 ---
 ### Brief 
-Kunal is a 4th year Computational Biology PhD student in the lab. He graduated from Nanyang Technological University in 2021, majoring in Biological Sciences and Medicinal Chemistry, where he gained experience working in both wet and dry lab projects. He joined Duke-NUS after graduating to pursue his PhD in 2021, and began his thesis work in 2022. 
+Kunal is a Research Fellow in the lab. He graduated from Nanyang Technological University in 2021, majoring in Biological Sciences and Medicinal Chemistry, where he gained experience working in both wet and dry lab projects. He joined Duke-NUS after graduating to pursue his PhD in 2021, and began his thesis work in 2022. He defended his thesis in 2025 and is continuing in the lab as a Research Fellow. 
 
 His projects focus on the complex role of macrophage and immunometabolism in chronic kidney diseases. He does this by implementing systems genetics approaches and cross-species integrative analysis to identify novel therapeutic targets and regulators of complex kidney diseases. He has experience working on multi-omics datasets, specifically genomic, bulk/single cell transcriptomic, and spatial omics datasets. 
 
