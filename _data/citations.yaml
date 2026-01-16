@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40534245
+  title: 'Grape Seed Proanthocyanidins: A Potential Microbiome-Targeted Intervention
+    for Healthy Aging in Rats.'
+  authors:
+  - Marta Sierra-Cruz
+  - "Adri\xE0 Vilalta"
+  - "Alba Migu\xE9ns-G\xF3mez"
+  - Harry Park
+  - "Esther Rodr\xEDguez-Gallego"
+  - Maria Teresa Blay
+  - "Anna Ard\xE9vol"
+  - Montserrat Pinent
+  - Jacques Behmoaras
+  - "Ra\xFAl Beltr\xE1n-Deb\xF3n"
+  - Ximena Terra
+  publisher: Molecular nutrition & food research
+  date: '2025-06-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40534245
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40467841
   title: The spatial and temporal activation of macrophages during fibrosis.
   authors:
@@ -920,21 +941,6 @@
   publisher: Cell reports
   date: '2014-08-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25131209
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:24053712
-  title: JunD/AP1 regulatory network analysis during macrophage activation in a rat
-    model of crescentic glomerulonephritis.
-  authors:
-  - Prashant K Srivastava
-  - Richard P Hull
-  - Jacques Behmoaras
-  - Enrico Petretto
-  - Timothy J Aitman
-  publisher: BMC systems biology
-  date: '2013-09-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24053712
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
