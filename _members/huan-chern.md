@@ -4,7 +4,7 @@ image: images/lab-members/huan-chern.jpg
 role: staff
 group: alum
 description: Executive
-alumni: True
+alumni: true
 links:
   home-page: https://www.duke-nus.edu.sg/ccb/faculty/detail/Detail/huan-chern
   email: huanchern_chia@duke-nus.edu.sg
