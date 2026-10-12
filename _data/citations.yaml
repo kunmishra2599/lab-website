@@ -1,5 +1,51 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42764338
+  title: Sex-specific trajectories of nonlinear immune aging at single-cell level.
+  authors:
+  - Harry Park
+  - Nina Le Bert
+  - Antonio Bertoletti
+  - Nicholas Tolwinski
+  - Jan Gruber
+  - Jacques Behmoaras
+  publisher: Nature communications
+  date: '2026-08-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42764338
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42532713
+  title: A macrophage compass for pigeons.
+  authors:
+  - Xiaoting Wu
+  - Jacques Behmoaras
+  publisher: Trends in immunology
+  date: '2026-07-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42532713
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41712644
+  title: Mfsd2a is important for maintaining epidermal homeostasis.
+  authors:
+  - Bernice H Wong
+  - Kunal Mishra
+  - Cheen Fei Chin
+  - Dwight L A Galam
+  - Bryan C Tan
+  - Mei Ding
+  - Federico Torta
+  - Jacques Behmoaras
+  - Alvin W C Chua
+  - David L Silver
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2026-02-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41712644
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40534245
   title: 'Grape Seed Proanthocyanidins: A Potential Microbiome-Targeted Intervention
     for Healthy Aging in Rats.'
