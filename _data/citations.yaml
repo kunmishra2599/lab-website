@@ -1,5 +1,51 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42764338
+  title: Sex-specific trajectories of nonlinear immune aging at single-cell level.
+  authors:
+  - Harry Park
+  - Nina Le Bert
+  - Antonio Bertoletti
+  - Nicholas Tolwinski
+  - Jan Gruber
+  - Jacques Behmoaras
+  publisher: Nature communications
+  date: '2026-08-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42764338
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42532713
+  title: A macrophage compass for pigeons.
+  authors:
+  - Xiaoting Wu
+  - Jacques Behmoaras
+  publisher: Trends in immunology
+  date: '2026-07-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42532713
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41712644
+  title: Mfsd2a is important for maintaining epidermal homeostasis.
+  authors:
+  - Bernice H Wong
+  - Kunal Mishra
+  - Cheen Fei Chin
+  - Dwight L A Galam
+  - Bryan C Tan
+  - Mei Ding
+  - Federico Torta
+  - Jacques Behmoaras
+  - Alvin W C Chua
+  - David L Silver
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2026-02-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41712644
+  term: Behmoaras, J[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40534245
   title: 'Grape Seed Proanthocyanidins: A Potential Microbiome-Targeted Intervention
     for Healthy Aging in Rats.'
@@ -140,29 +186,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:37016941
-  title: Multinucleation resets human macrophages for specialized functions at the
-    expense of their identity.
-  authors:
-  - Kourosh Ahmadzadeh
-  - Marie Pereira
-  - Margot Vanoppen
-  - Eline Bernaerts
-  - Jeong-Hun Ko
-  - Tania Mitera
-  - Christy Maksoudian
-  - Bella B Manshian
-  - Stefaan Soenen
-  - Carlos D Rose
-  - Patrick Matthys
-  - Carine Wouters
-  - Jacques Behmoaras
-  publisher: EMBO reports
-  date: '2023-04-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37016941
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:36597777
   title: Multinucleation resets human macrophages for specialized functions at the
     expense of their identity.
@@ -231,28 +254,6 @@
   publisher: Frontiers in immunology
   date: '2022-06-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35844525
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:35239186
-  title: Glomerulonephritis and autoimmune vasculitis are independent of P2RX7 but
-    may depend on alternative inflammasome pathways.
-  authors:
-  - Maria Prendecki
-  - Stephen P McAdoo
-  - Tabitha Turner-Stokes
-  - Ana Garcia-Diaz
-  - Isabel Orriss
-  - Kevin J Woollard
-  - Jacques Behmoaras
-  - H Terence Cook
-  - Robert Unwin
-  - Charles D Pusey
-  - Timothy J Aitman
-  - Frederick Wk Tam
-  publisher: The Journal of pathology
-  date: '2022-05-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35239186
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -714,24 +715,6 @@
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:27483348
-  title: Identification of a nutrient-sensing transcriptional network in monocytes
-    by using inbred rat models on a cafeteria diet.
-  authors:
-  - "Neus Mart\xEDnez-Micaelo"
-  - "Noemi Gonz\xE1lez-Abu\xEDn"
-  - Ximena Terra
-  - "Ana Ard\xE9vol"
-  - Montserrat Pinent
-  - Enrico Petretto
-  - Jacques Behmoaras
-  - Mayte Blay
-  publisher: Disease models & mechanisms
-  date: '2016-07-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27483348
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:26728561
   title: 'Human Chorionic Stem Cells: Podocyte Differentiation and Potential for the
     Treatment of Alport Syndrome.'
@@ -941,21 +924,6 @@
   publisher: Cell reports
   date: '2014-08-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25131209
-  term: Behmoaras, J[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
-- id: pubmed:24053712
-  title: JunD/AP1 regulatory network analysis during macrophage activation in a rat
-    model of crescentic glomerulonephritis.
-  authors:
-  - Prashant K Srivastava
-  - Richard P Hull
-  - Jacques Behmoaras
-  - Enrico Petretto
-  - Timothy J Aitman
-  publisher: BMC systems biology
-  date: '2013-09-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24053712
   term: Behmoaras, J[Author]
   plugin: pubmed.py
   file: pubmed.yaml
